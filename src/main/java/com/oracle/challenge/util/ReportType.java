@@ -1,0 +1,8 @@
+package main.java.com.oracle.challenge.util;
+
+public enum ReportType {
+    UNIQUE_CUSTOMER_COUNT_BY_CONTRACT_ID,
+    UNIQUE_CUSTOMER_COUNT_BY_GEOZONE,
+    AVERAGE_BUILD_DURATION_BY_GEOZONE,
+    UNIQUE_CUSTOMER_IDS_BY_GEOZONE
+}
